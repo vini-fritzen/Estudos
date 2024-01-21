@@ -4,8 +4,8 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
 
 ## Estrutura do Repositório
 
-- **/HTML:** Códigos relacionados ao Curso de HTML.
-  - `/Artigo`: Descrição do Projeto 1.
+- **./HTML:** Códigos relacionados ao Curso de HTML.
+  - `./Artigo`: Descrição do Projeto 1.
   - `/Projeto2`: Descrição do Projeto 2.
 
 - **/Curso2:** Códigos relacionados ao Curso 2.
