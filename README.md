@@ -15,6 +15,8 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
 - **[CSS](https://github.com/vini-fritzen/Estudos/tree/9f6bbd92e57bf046b034c9f4ea429b189bfeaa8c/CSS)** Códigos relacionados ao Curso de CSS.
   - `/Pagina Fernando de Noronha`: Site Fernando de Noronha.
   - `/Sistema Administrativo`: Site com display.
+  - `/Bookshelf`: Catalogo de livro.
+  - `/Site Completo`: Site sobre Seal World.
 
 ## Como Usar
 
