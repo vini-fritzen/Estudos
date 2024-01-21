@@ -12,7 +12,7 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
   - `/Formulário de Inscrição`: Formulário de inscrição em HTML.
   - `/Site Completo`: Site para um escritório de contabilidade fictício. O site possui 4 páginas: Início, Sobre Nós, Serviços e Contato.
 
-  - **[CSS](https://github.com/vini-fritzen/Estudos/tree/dbd3f07ec12206bf5feb3af72d82abf082e0b001/HTML)** Códigos relacionados ao Curso de CSS.
+  - **[CSS](https://github.com/vini-fritzen/Estudos/tree/9f6bbd92e57bf046b034c9f4ea429b189bfeaa8c/CSS)** Códigos relacionados ao Curso de CSS.
   - `/Pagina Fernando de Noronha`: Site Fernando de Noronha.
 
 ## Como Usar
