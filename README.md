@@ -5,12 +5,12 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
 ## Estrutura do Repositório
 
 - **[HTML](https://github.com/vini-fritzen/Estudos/tree/dbd3f07ec12206bf5feb3af72d82abf082e0b001/HTML)** Códigos relacionados ao Curso de HTML.
-  - `/Artigo`: Descrição do Projeto 1.
+  - `/Artigo`: Site de um artigo sobre Júpiter.
   - `/Formulário de Inscrição`: Descrição do Projeto 2.
   - `/Lista de Album`: Descrição do Projeto 3.
   - `/Navegação`: Descrição do Projeto 4.
   - `/Tabela de Inscritos`: Descrição do Projeto 5.
-  - `/Site Completo`: Site para um escritório de contabilidade fictício. O site deverá possui 4 páginas: Início, Sobre Nós, Serviços e Contato.
+  - `/Site Completo`: Site para um escritório de contabilidade fictício. O site possui 4 páginas: Início, Sobre Nós, Serviços e Contato.
 
 ## Como Usar
 
