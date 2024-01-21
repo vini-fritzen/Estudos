@@ -25,7 +25,7 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
 
 ## Contato
 
-Para entrar em contato, envie um e-mail para [vini_bn@hotmail.com].
+Para entrar em contato, envie um e-mail para vini_bn@hotmail.com.
 
 ## Agradecimentos
 
