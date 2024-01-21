@@ -5,7 +5,7 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
 ## Estrutura do Repositório
 
 - **[HTML](https://github.com/vini-fritzen/Estudos/tree/dbd3f07ec12206bf5feb3af72d82abf082e0b001/HTML)** Códigos relacionados ao Curso de HTML.
- - <a href="https://github.com/vini-fritzen/Estudos/tree/dbd3f07ec12206bf5feb3af72d82abf082e0b001/Artigo" style="text-decoration:none">./Artigo</a>: Descrição do Projeto 1.
+  - `./Artigo`: Descrição do Projeto 1.
   - `/Projeto2`: Descrição do Projeto 2.
 
 - **/Curso2:** Códigos relacionados ao Curso 2.
