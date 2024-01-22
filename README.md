@@ -4,7 +4,7 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
 
 ## Estrutura do Repositório
 
-- **[HTML](https://github.com/vini-fritzen/Estudos/tree/dbd3f07ec12206bf5feb3af72d82abf082e0b001/HTML)** Códigos relacionados ao Curso de HTML.
+- Códigos relacionados ao Curso de **[HTML](https://github.com/vini-fritzen/Estudos/tree/dbd3f07ec12206bf5feb3af72d82abf082e0b001/HTML)**.
   - `/Artigo`: Site de um artigo sobre Júpiter.
   - `/Navegação`: Criação da estrutura inicial em HTML de um site para uma empresa de soluções de tecnologia.
   - `/Lista de Album`: Lista não ordenada de álbuns onde cada item possui uma lista ordenada das músicas do álbum.
@@ -12,7 +12,7 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
   - `/Formulário de Inscrição`: Formulário de inscrição em HTML.
   - `/Site Completo`: Site para um escritório de contabilidade fictício. O site possui 4 páginas: Início, Sobre Nós, Serviços e Contato.
 
-- **[CSS](https://github.com/vini-fritzen/Estudos/tree/9f6bbd92e57bf046b034c9f4ea429b189bfeaa8c/CSS)** Códigos relacionados ao Curso de CSS.
+- Códigos relacionados ao Curso de **[CSS](https://github.com/vini-fritzen/Estudos/tree/9f6bbd92e57bf046b034c9f4ea429b189bfeaa8c/CSS)**.
   - `/Pagina Fernando de Noronha`: Site Fernando de Noronha.
   - `/Sistema Administrativo`: Site com display.
   - `/Bookshelf`: Catalogo de livro.
