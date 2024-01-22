@@ -27,6 +27,8 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
   - `/Visitando novas cidades`: Armazena e conta as cidades visitadas.
   - `/Menu Interativo`: Lidando com menu e seleção.
   - `/Controle Financeiro`: Faz um controle financeiro simples.
+  - `/Robô da Tabuada`: Executa os calculos da tabuada.
+  - `/Procurando Palíndromos`: Verifica se a palavra é um Palíndromo ou não.
 
 
 ## Como Usar
