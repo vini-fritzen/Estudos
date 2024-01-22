@@ -19,7 +19,7 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
   - `/Site Completo`: Site sobre Seal World.
 
 - **[JavaScript](https://github.com/vini-fritzen/Estudos/tree/47167a412a9659d2a8042c69711fb1e1824ba5a9/JavaScript)** Códigos relacionados ao Curso de JS.
-  - **MODULO 1**
+  - **JS I - Introdução à Linguagem**
     - `/Cadastro de Usuario`: Logica para cadastro em JS.
     - `/Calculadora de 4 operaçoes`: Calculadora simples com 4 operações.
     - `/Teste de Velocidade`: Teste se o carro A esta mais rapido que o carro B.
