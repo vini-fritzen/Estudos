@@ -18,6 +18,10 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
   - `/Bookshelf`: Catalogo de livro.
   - `/Site Completo`: Site sobre Seal World.
 
+- **[JavaScript](https://github.com/vini-fritzen/Estudos/tree/9f6bbd92e57bf046b034c9f4ea429b189bfeaa8c/CSS)** Códigos relacionados ao Curso de JS.
+  - `/Cadastro de Usuario`: Logica para cadastro em JS.
+  - `/Calculadora de 4 operaçoes`: Calculadora simples com 4 operações.
+
 ## Como Usar
 
 1. Navegue até o diretório do curso desejado.
