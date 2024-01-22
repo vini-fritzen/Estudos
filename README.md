@@ -18,17 +18,18 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
   - `/Bookshelf`: Catalogo de livro.
   - `/Site Completo`: Site sobre Seal World.
 
-- **[JavaScript](https://github.com/vini-fritzen/Estudos/tree/9f6bbd92e57bf046b034c9f4ea429b189bfeaa8c/CSS)** Códigos relacionados ao Curso de JS.
-  - `/Cadastro de Usuario`: Logica para cadastro em JS.
-  - `/Calculadora de 4 operaçoes`: Calculadora simples com 4 operações.
-  - `/Teste de Velocidade`: Teste se o carro A esta mais rapido que o carro B.
-  - `/Cálculo de Dano`: Calculo de dano entre dois personagem.
-  - `/Conversor de Medidas`: Conversor de medidas de distancia.
-  - `/Visitando novas cidades`: Armazena e conta as cidades visitadas.
-  - `/Menu Interativo`: Lidando com menu e seleção.
-  - `/Controle Financeiro`: Faz um controle financeiro simples.
-  - `/Robô da Tabuada`: Executa os calculos da tabuada.
-  - `/Procurando Palíndromos`: Verifica se a palavra é um Palíndromo ou não.
+- **[JavaScript](https://github.com/vini-fritzen/Estudos/tree/47167a412a9659d2a8042c69711fb1e1824ba5a9/JavaScript)** Códigos relacionados ao Curso de JS.
+  - **MODULO 1**
+    - `/Cadastro de Usuario`: Logica para cadastro em JS.
+    - `/Calculadora de 4 operaçoes`: Calculadora simples com 4 operações.
+    - `/Teste de Velocidade`: Teste se o carro A esta mais rapido que o carro B.
+    - `/Cálculo de Dano`: Calculo de dano entre dois personagem.
+    - `/Conversor de Medidas`: Conversor de medidas de distancia.
+    - `/Visitando novas cidades`: Armazena e conta as cidades visitadas.
+    - `/Menu Interativo`: Lidando com menu e seleção.
+    - `/Controle Financeiro`: Faz um controle financeiro simples.
+    - `/Robô da Tabuada`: Executa os calculos da tabuada.
+    - `/Procurando Palíndromos`: Verifica se a palavra é um Palíndromo ou não.
 
 
 ## Como Usar
