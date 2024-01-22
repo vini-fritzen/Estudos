@@ -23,6 +23,11 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
   - `/Calculadora de 4 operaçoes`: Calculadora simples com 4 operações.
   - `/Teste de Velocidade`: Teste se o carro A esta mais rapido que o carro B.
   - `/Cálculo de Dano`: Calculo de dano entre dois personagem.
+  - `/Conversor de Medidas`: Conversor de medidas de distancia.
+  - `/Visitando novas cidades`: Armazena e conta as cidades visitadas.
+  - `/Menu Interativo`: Lidando com menu e seleção.
+  - `/Controle Financeiro`: Faz um controle financeiro simples.
+
 
 ## Como Usar
 
