@@ -31,6 +31,10 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
     - `/Robô da Tabuada`: Executa os calculos da tabuada.
     - `/Procurando Palíndromos`: Verifica se a palavra é um Palíndromo ou não.
 
+  - **JS II - Estruturas de Dados e Funções**
+    - `/Fila de Espera`: Logica para uma fila de pacientes.
+    - `/Pilha de Cartas`: Logica para Cartas.
+
 
 ## Como Usar
 
