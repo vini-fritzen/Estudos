@@ -34,6 +34,7 @@ Este repositório contém códigos relacionados aos cursos que estou estudando. 
   - **JS II - Estruturas de Dados e Funções**
     - `/Fila de Espera`: Logica para uma fila de pacientes.
     - `/Pilha de Cartas`: Logica para Cartas.
+    - `/Cadastro de Imóveis`: Logica para cadastar imoveis usando objetos.
 
 
 ## Como Usar
